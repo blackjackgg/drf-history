@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: drf-api-history
+Version: 1.0.0
+Summary: drf api 访问历史记录 从api角度出发记录操作历史.
+Home-page: UNKNOWN
+Author: blackjack0v0
+Author-email: yihongwy1@163.com
+License: UNKNOWN
+Description: drf api 访问历史记录 从api角度出发记录操作历史 
+Keywords: djangorestframework drf history django audit tracking
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 2.0
+Classifier: Framework :: Django :: 2.1
+Classifier: Framework :: Django :: 2.2
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: BSD License
+Description-Content-Type: text/markdown

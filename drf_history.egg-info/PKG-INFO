@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: drf-history
+Version: 1.0.0
+Summary: A simple Django app to track create,update and delete actions.
+Home-page: https://github.com/kenneth051/drf-history
+Author: Ddumba Kenneth
+Author-email: kjdumba@gmail.com
+License: UNKNOWN
+Description: README
+Keywords: djangorestframework drf history django audit tracking
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 2.0
+Classifier: Framework :: Django :: 2.1
+Classifier: Framework :: Django :: 2.2
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: BSD License
+Description-Content-Type: text/markdown
